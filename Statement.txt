@@ -1,0 +1,44 @@
+
+Account Number: 467343
+Account Balance: 23750.4
+Number of Deposits: 1
+Number of Withdrawals: 2
+Number of Interest paid: 1
+Total Deposits: 1200
+Total Withdrawals: 325
+Total Interest paid: 120.74
+Number of Overdrafts: 0
+Current available balance: 24746.1
+
+Account Number: 467353
+Account Balance: 33750.4
+Number of Deposits: 1
+Number of Withdrawals: 2
+Number of Interest paid: 1
+Total Deposits: 1200
+Total Withdrawals: 12000
+Total Interest paid: 120.74
+Number of Overdrafts: 0
+Current available balance: 23071.1
+
+Account Number: 567343
+Account Balance: 23750.4
+Number of Deposits: 1
+Number of Withdrawals: 2
+Number of Interest paid: 1
+Total Deposits: 1400
+Total Withdrawals: 2900
+Total Interest paid: 130.74
+Number of Overdrafts: 0
+Current available balance: 22381.1
+
+Account Number: 468843
+Account Balance: 13750.4
+Number of Deposits: 1
+Number of Withdrawals: 2
+Number of Interest paid: 1
+Total Deposits: 1200
+Total Withdrawals: 11425
+Total Interest paid: 19.74
+Number of Overdrafts: 0
+Current available balance: 3545.14
